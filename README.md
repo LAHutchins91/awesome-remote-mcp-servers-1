@@ -1053,6 +1053,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Datakoot Economy Intel](https://datakoot.com/economy-intel) `https://economy.datakoot.com/mcp`
   [![Datakoot Economy Intel MCP connector](https://glama.ai/mcp/connectors/com.datakoot/economy-gdp-inflation-unemployment/badges/score.svg)](https://glama.ai/mcp/connectors/com.datakoot/economy-gdp-inflation-unemployment)
   🔓 - World Bank indicators for any country plus US BLS series such as CPI, unemployment and payrolls.
+- [Deposit by Ouroboros Apps](https://ouroborosapps.com/docs/deposit) `https://deposit-continuity2.vercel.app/mcp`
+  [![Deposit by Ouroboros Apps MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/deposit/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/deposit)
+  🔓 - Freelance deposit and payment schedule, and what an assistant may tell the client.
 - [DokladBot](https://dokladbot.cz/funkce/ai-asistent) `https://dokladbot.cz/api/mcp`
   [![DokladBot MCP connector](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot/badges/score.svg)](https://glama.ai/mcp/connectors/cz.dokladbot/dokladbot)
   🔐 - Czech accounting for freelancers: invoices, VAT summaries, tax deadlines, bank transactions and data box envelopes.
@@ -1140,6 +1143,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Intangible Asset Valuation](https://intangible-valuation.simonmak.com) `https://intangible-valuation.simonmak.com/api/mcp`
   [![Intangible Asset Valuation MCP connector](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.simonplmak-cloud/intangible-valuation)
   🔓 - 124+ deterministic formulas for IP, relief from royalty, MPEEM, purchase price allocation and impairment.
+- [Invoice by Ouroboros Apps](https://ouroborosapps.com/docs/invoice) `https://invoice-continuity2.vercel.app/mcp`
+  [![Invoice by Ouroboros Apps MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/invoice/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/invoice)
+  🔓 - Freelance invoice line items, quantities, agreed rates, due dates, and late terms.
 - [Invompt](https://www.invompt.com) `https://mcp.invompt.com/mcp`
   [![Invompt MCP connector](https://glama.ai/mcp/connectors/com.invompt/invompt/badges/score.svg)](https://glama.ai/mcp/connectors/com.invompt/invompt)
   🔐 - Create invoices and review them before sending.
@@ -1608,6 +1614,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [LienDeadline](https://liendeadline.com) `https://mcp.liendeadline.com/mcp`
   [![LienDeadline MCP connector](https://glama.ai/mcp/connectors/io.github.LienDeadline/liendeadline-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LienDeadline/liendeadline-mcp)
   🔓 - Read-only US mechanics lien and preliminary notice deadlines for suppliers, plus lien guides for all 50 states and DC.
+- [Patent by Ouroboros Apps](https://ouroborosapps.com/docs/patent) `https://patent-mcp.vercel.app/mcp`
+  [![Patent by Ouroboros Apps MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/patent/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/patent)
+  🔓 - USPTO patent search and prior art lookup; returns only records the office returned. Not legal advice.
 - [RegAI Legal MCP](https://regai.tw/mcp) `https://mcp.regai.tw/mcp`
   [![RegAI Legal MCP connector](https://glama.ai/mcp/connectors/tw.regai/legal/badges/score.svg)](https://glama.ai/mcp/connectors/tw.regai/legal)
   🔐 - Taiwan law and court decisions: statutes, articles by number, apex-court and Grand Chamber rulings; read-only.
@@ -1662,6 +1671,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ChimpanSEO](https://chimpanseo.app) `https://chimpanseo.app/api/mcp`
   [![ChimpanSEO MCP connector](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo/badges/score.svg)](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo)
   🔓 - Generate, schedule and publish GEO/AEO-optimized articles to WordPress; tools need an account.
+- [Claim by Ouroboros Apps](https://ouroborosapps.com/docs/claim) `https://claim-continuity2.vercel.app/mcp`
+  [![Claim by Ouroboros Apps MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/claim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/claim)
+  🔓 - Approved brand claims, offers, proof, and banned phrases; checks marketing copy against them.
 - [ConferenceGrid](https://conferencegrid.com/mcp) `https://conferencegrid.com/api/mcp`
   [![ConferenceGrid MCP connector](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid/badges/score.svg)](https://glama.ai/mcp/connectors/com.conferencegrid/conferencegrid)
   🔐 - Which conferences a company sponsors, exhibits at or speaks at, and which events are open to sponsors.
@@ -1769,6 +1781,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [QRFLOW.codes](https://qrflow.codes) `https://qrflow.codes/mcp`
   [![QRFLOW.codes MCP connector](https://glama.ai/mcp/connectors/codes.qrflow/qrflow/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrflow/qrflow)
   🔐 - Create QR codes, re-point printed dynamic codes, name links on your own domain, and read scan analytics.
+- [Rank by Ouroboros Apps](https://ouroborosapps.com/docs/rank) `https://rank.ouroborosapps.com/mcp`
+  [![Rank by Ouroboros Apps MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/rank/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/rank)
+  🔓 - Read-only SEO rankings from Google Search Console: top queries, pages, trends, and URL inspection.
 - [Reach MCP](https://www.reachmcp.com) `https://app.reachmcp.com/mcp`
   [![Reach MCP connector](https://glama.ai/mcp/connectors/com.reachmcp/linkedin/badges/score.svg)](https://glama.ai/mcp/connectors/com.reachmcp/linkedin)
   🔐 - Operate a LinkedIn account: inbox, invitations, Sales Navigator search, posts; enforced daily quotas, webhooks.
@@ -2049,6 +2064,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [mcptask.online](https://mcptask.online) `https://mcptask.online/mcp`
   [![mcptask.online MCP connector](https://glama.ai/mcp/connectors/online.mcptask/mcptaskonline/badges/score.svg)](https://glama.ai/mcp/connectors/online.mcptask/mcptaskonline)
   🔐 - Assign coding tasks to Claude Code, Codex or OpenCode on your own infrastructure and get PRs back.
+- [Milestone by Ouroboros Apps](https://ouroborosapps.com/docs/milestone) `https://milestone-continuity2.vercel.app/mcp`
+  [![Milestone by Ouroboros Apps MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/milestone/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/milestone)
+  🔓 - Freelance project milestones and acceptance criteria; a milestone is done only when criteria are met.
 - [monday.com](https://monday.com) `https://mcp.monday.com/mcp`
   🔐 - Manage monday.com boards, items, and updates.
 - [Orbit](https://orbit.noveum.ai) `https://orbit.noveum.ai/mcp`
@@ -2057,6 +2075,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Pizza Developer](https://pizzadeveloper.com) `https://pizzadeveloper.com/api/mcp`
   [![Pizza Developer MCP connector](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper/badges/score.svg)](https://glama.ai/mcp/connectors/com.pizzadeveloper/pizzadeveloper)
   🔐 - Work management for AI agents: plan Ideas, Batches and Works, keep context, ship Deliveries.
+- [Scope by Ouroboros Apps](https://ouroborosapps.com/docs/scope) `https://scope-continuity2.vercel.app/mcp`
+  [![Scope by Ouroboros Apps MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/scope/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/scope)
+  🔓 - Freelance scope of work, rates, deadlines, and change orders an assistant reads before it answers.
 - [Stellary](https://stellary.co) `https://api.stellary.co/mcp`
   [![Stellary MCP connector](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Anymfah/stellary-project-management)
   🔐 - Project boards, a cockpit and governed agent missions.
@@ -2162,6 +2183,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Oliver's mTOR Atlas](https://mtor-atlas.org/api/#mcp) `https://mtor-atlas-mcp.mtor-atlas.workers.dev/mcp`
   [![Oliver's mTOR Atlas MCP connector](https://glama.ai/mcp/connectors/io.github.open-mtor-atlas/mtor-atlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.open-mtor-atlas/mtor-atlas)
   🔓 - Curated mTOR research: evidence-labelled studies, pathway claims with supporting/conflicting studies, open questions.
+- [Papers by Ouroboros Apps](https://ouroborosapps.com/docs/papers) `https://papers-mcp.vercel.app/mcp`
+  [![Papers by Ouroboros Apps MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/papers/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/papers)
+  🔓 - Research paper search with real citations from OpenAlex, Semantic Scholar, PubMed, Crossref, and arXiv.
 - [Picked by Agents Research Network](https://pickedbyagents.com/join) `https://pickedbyagents.com/research-api/mcp`
   [![Picked by Agents Research Network MCP connector](https://glama.ai/mcp/connectors/com.pickedbyagents/research-network/badges/score.svg)](https://glama.ai/mcp/connectors/com.pickedbyagents/research-network)
   🔓 - Agents answer research tasks on how assistants pick local businesses and earn credits, if their person agrees.
@@ -2587,6 +2611,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 
 ### 🎧 <a name="support--service-management"></a>Support & Service Management
 
+- [Desk by Ouroboros Apps](https://ouroborosapps.com/docs/desk) `https://desk-mcp-continuity2.vercel.app/mcp`
+  [![Desk by Ouroboros Apps MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/desk/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/desk)
+  🔓 - Customer support answers, refund rules, and escalation limits that an assistant reads before it replies.
 - [DevReply](https://devreply.com) `https://api.devreply.com/mcp`
   [![DevReply MCP connector](https://glama.ai/mcp/connectors/com.devreply/devreply/badges/score.svg)](https://glama.ai/mcp/connectors/com.devreply/devreply)
   🔐 - Read, triage and answer the users of your mobile and web apps from their in-app support chat.
